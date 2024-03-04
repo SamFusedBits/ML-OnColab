@@ -16,8 +16,8 @@ Welcome to ML-OnColab, your evolving space for exploring hands-on Machine Learni
    - Initial explorations and insights from the data.
 
 ## Upcoming Topics:
-5. **Linear Regression:**
-   - Implementing and understanding linear regression.
+5. **Regression:**
+   - Implementing and understanding Multivariate, Logistic regression.
 
 6. **Classification Techniques:**
    - Decision Tree fundamentals.
