@@ -1,6 +1,6 @@
 # ML-OnColab 🤖🌐 
 
-Welcome to ML-OnColab, your evolving space for exploring hands-on Machine Learning problems on Google Colab. This repository will regularly feature notebooks covering essential topics:
+Welcome to ML-OnColab, this repository will regularly feature notebooks covering essential topics:
 
 ## Early Topics:
 1. **Python in Colab:**
