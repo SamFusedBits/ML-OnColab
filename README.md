@@ -1,7 +1,5 @@
 # ML-OnColab 🤖🌐 
 
-Welcome to ML-OnColab, your evolving space for exploring hands-on Machine Learning problems on Google Colab. This repository will regularly feature notebooks covering essential topics:
-
 ## Early Topics:
 1. **Python in Colab:**
    - Kickstart with Python programming in Colab.
@@ -28,4 +26,4 @@ Welcome to ML-OnColab, your evolving space for exploring hands-on Machine Learni
 8. **Feature Engineering:**
    - Enhancing model performance through feature engineering.
 
-Stay tuned for updates and new notebooks. Happy coding on Google Colab!
+Happy coding on Google Colab!
