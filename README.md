@@ -1,6 +1,6 @@
 # ML-OnColab 🤖🌐 
 
-## Early Topics:
+## Topics:
 1. **Python in Colab:**
    - Kickstart with Python programming in Colab.
 
@@ -13,7 +13,6 @@
 4. **Exploratory Data Analysis (EDA):**
    - Initial explorations and insights from the data.
 
-## Upcoming Topics:
 5. **Regression:**
    - Implementing and understanding Multivariate, Logistic regression.
 
